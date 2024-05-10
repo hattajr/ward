@@ -1,0 +1,6 @@
+.vscode
+.venv**
+__pycache__
+my_package.egg-info
+**.html
+.trash
